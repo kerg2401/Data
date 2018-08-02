@@ -10,5 +10,7 @@ public class Main {
 
 	private static void dataGreeting() {
 		System.out.println("Salut chef");
+		
+		System.out.println("test1");
 	}
 }
